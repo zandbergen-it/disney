@@ -25,6 +25,11 @@
         "imdb_id": "tt0034492"
     },
     {
+        "title": "Saludos Amigos",
+        "poster_url": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/t4VKBHRiRtGhFSStHHAhGU9RQXM.jpg",
+        "imdb_id": "tt0035342"
+    },
+    {
         "title": "Victory Through Air Power",
         "poster_url": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/5k5S2nG4j3eS3Z0Jyw1Kz7aQ5jH.jpg",
         "imdb_id": "tt0036497"
@@ -298,6 +303,11 @@
         "title": "Piglet's Big Movie",
         "poster_url": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/4XomWYl4o3a5zT4YkCe3JG0oK3B.jpg",
         "imdb_id": "tt0323642"
+    },
+    {
+        "title": "Finding Nemo",
+        "poster_url": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/eHuGQ10FUzK1p2ECpMSNuXAM1HX.jpg",
+        "imdb_id": "tt0266543"
     },
     {
         "title": "Brother Bear",
